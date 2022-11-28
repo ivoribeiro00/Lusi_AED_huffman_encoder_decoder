@@ -1,0 +1,3 @@
+/Users/ivo/Desktop/uni/LUSI/AED/huffman_work/cmake-build-debug/CMakeFiles/huffman_work.dir
+/Users/ivo/Desktop/uni/LUSI/AED/huffman_work/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivo/Desktop/uni/LUSI/AED/huffman_work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
