@@ -1,3 +1,5 @@
+//this is the encoding.c
+
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <ctype.h>
